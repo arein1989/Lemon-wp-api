@@ -1,0 +1,13 @@
+/*
+Theme Name: wp-theme
+Author: Arein Hussein
+Author URI: www.example.com
+Description: Custom theme
+Version: 1.0
+*/
+
+*{
+    margin: 5px;
+    font-family: 'Lora', serif;
+    box-sizing: border-box;
+}
